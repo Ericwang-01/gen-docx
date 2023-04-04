@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "label": "\u8272\u6591\u56fe",
+    "data": [
+      {
+        "color": "rgb(0,253,4)",
+        "value": "-3",
+        "label": "\u5c0f\u4e8e3\u5929"
+      },
+      {
+        "color": "rgb(150,253,126)",
+        "value": "3",
+        "label": "-3 ~ 3\u5929"
+      },
+      {
+        "color": "rgb(255,255,201)",
+        "value": "10",
+        "label": "\u5927\u4e8e3 ~ 10\u5929"
+      },
+      {
+        "color": "rgb(255,253,136)",
+        "value": "20",
+        "label": "\u5927\u4e8e10 ~ 20\u5929"
+      },
+      {
+        "color": "rgb(220,208,0)",
+        "value": "9999",
+        "label": "\u5927\u4e8e20\u5929"
+      }
+    ],
+    "boundary": -1,
+
+  },
+  {
+    "id": 2,
+    "label": "\u8272\u7cfb\u56fe",
+    "data": [
+      {
+        "color": "rgb(0,253,4)",
+        "value": "-3",
+        "label": "-3"
+      },
+      {
+        "color": "rgb(150,253,126)",
+        "value": "3",
+        "label": "3"
+      },
+      {
+        "color": "rgb(255,255,201)",
+        "value": "10",
+        "label": "10"
+      },
+      {
+        "color": "rgb(255,253,136)",
+        "value": "20",
+        "label": "20"
+      },
+      {
+        "color": "rgb(220,208,0)",
+        "value": "9999",
+        "label": "9999"
+      }
+    ]
+  }
+]

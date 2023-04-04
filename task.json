@@ -1,0 +1,44 @@
+{
+  "analysis": "宁熙尧",
+  "autumn": "/home/lhtd/nm3/script/plot/agme_autumn_target.py",
+  "crop_list": [],
+  "date_now": "2023-04-03",
+  "disaster_list": [],
+  "dsn": "host=127.0.0.1 dbname=nmnq_db user=readonly password=",
+  "dsn_sys": "host=127.0.0.1 dbname=nmnq_sys user=readonly password=",
+  "issue": 5,
+  "issue_total": 12,
+  "label": "春耕春播气象服务专报",
+  "my_uuid": "cbf63d9f-b929-4949-9158-4e57a8745ce9",
+  "owner": "宁熙尧",
+  "period": [
+    "2023-03-04",
+    "2023-04-03"
+  ],
+  "red_header": "春耕春播气象服务专报",
+  "region": {
+    "code": "150823",
+    "name": "乌拉特前旗",
+    "level": 2
+  },
+  "reviewer": "请确认当前审核人",
+  "root_path": "/data1/CR",
+  "signer": "空",
+  "shed_list": [],
+  "station_dict": {
+    "53348": "乌拉特前旗",
+    "53433": "乌拉特前旗"
+  },
+  "station_location": {
+    "53348": [
+      41.02,
+      109.129997253418
+    ],
+    "53433": [
+      40.73,
+      108.650001525879
+    ]
+  },
+  "unit": "内蒙古自治区气象局",
+  "unit_pic": "/home/lhtd/nm3/static/unit_pic/150000.jpg"
+}
